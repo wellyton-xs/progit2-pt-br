@@ -1,0 +1,60 @@
+Adrien Ollier			git-em				Paweł Krupiński
+Akrom K				goekboet			Pedro 7úcio
+Aleh Suprunovich		haripetrov			Peter Kokot
+Alexandre Garnier		Haruo Nakayama			petsuter
+Alexandre R. Saccol		Helmut K. C. Tessarek		Philippe Miossec
+allen joslin			Henrique Serraglia		Rafael Rossi
+Altemir Pacheco			i-give-up			rahrah
+André Girol			iprok				Ramon Domingos
+Andrei Dascalu			Jan Groenewald			Ray Chen
+André Moreira			Jean-Noel Avila			Ricky Senft
+Andrew MacFie			Jean-Noël Avila			Rintze M. Zelle
+Andrew Murphy			Jeroen Oortwijn			rmzelle
+AndyGee				Jim Hill			Rob Blanco
+AnneTheAgile			Johannes Schindelin		Robert P. Goldman
+Anthony Loiseau			johnhar				Rogerio Prado de Jesus
+Antonino Ingargiola		Jon Forrest			Rohan D'Souza
+Anton Trunov			Jon Freed			Roman Kosenko
+atalakam			Joris Valette			Ronald Wampler
+Atul Varma			Joshua Webb			Rüdiger Herrmann
+AugustoAMendes			Justin Clift			Sam Ford
+axmbo				Kaartic Sivaraam		Sanders Kleinfeld
+Benjamin Dopplinger		Kausar Mehmood			sanders@oreilly.com
+Ben Sima			Kenneth Kin Lum			Sarah Schneider
+Brett Cannon			Krzysztof Szumny		SATO Yusuke
+Cadel Watson			Kyrylo Yatsenko			Saurav Sachidanand
+Carlos Martín Nieto		Lars Vogel			schacon@gmail.com
+Carlos Schults			Lazar95				Scott Bronson
+Changwoo Park			Leonard Laszlo			Sean Head
+Christopher Wilson		Logan Hasson			Sebastian Krause
+Christoph Prokop		Louise Corrigan			Sergio Cabral
+Cory Donnelly			Lucas Barros			Shengbin Meng
+cupnodes			Lucas Oshiro			Siarhei Krukau
+Cyril				Luc Morin			Skyper
+Damien Tournoud			Marcelo Criscuolo		Song Li
+Daniele Tricoli			Marius Žilėnas			spacewander
+Daniel Shahaf			Markus KARG			Stephan van Maris
+Danny Lin			Marti Bolivar			Steven Roddis
+Dan Schmidt			Masood Fallahpoor		Sven Selberg
+David Rogers			Matheus Catarino França		Tacini
+Denis Costa			Matthew Miner			Thanix
+Denis Savitskiy			Matthieu Moy			Thomas Ackermann
+devwebcl			mestihudson			Tomoki Aonuma
+DiamondeX			Michael MacAskill		Tom Schady
+Dmitri Tikhonov			Michael Sheaver			twekberg
+douglasmoraes			Michael Welch			un1versal
+Douglas Moraes			Michiel van der Wulp		Vadim Markovtsev
+dualsky				Mike Charles			Vanessa Ribeiro
+Fabiano Leite			Mike Thibodeau			Vangelis Katsikaros
+Felix Nehrke			mmikeww				Van Ribeiro
+Fillippe Prata			mosdalsvsocld			Vinicius Barbosa de Aguiar
+Flavio V Filho			Niels Widger			Vitaly Kuznetsov
+flaviovisnardifilho		Nils Reuße			wellyton-xs
+flip111				Owen				William Gathoye
+flyingzumwalt			Pablo Schläpfer			xJom
+Fornost461			Pascal Berger			Yann Soubeyrand
+Francilio Araújo		Pascal Borreli			Yue Lin Ho
+Francisco de Assis Boldt	patrick96			Yusuke SATO
+Frederico Mazzone		Patrick Steinhardt		zwPapEr
+George Tavares Lopes		paveljanik			ᐯᕮᒪᗝᑕᕮᒣ
+Geraldo				Pavel Janík			狄卢
